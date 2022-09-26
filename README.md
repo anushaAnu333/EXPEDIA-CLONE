@@ -5,7 +5,7 @@ Expedia.com
 # <span style="color:red"> Welcome Here!</span>
 
 Hello Readers,<br>
-It was during the final week which is depicted as the construct week. We have done this project with group of 6 members and build the clone of a very popular E-Commerce Website which deals in home appliances in the India <br> This Project is our construct week project in Unit-2 an we give a name to our project called Meanbuy Preoject. 
+It was during the final week which is depicted as the construct week. We have done this project with group of 6 members and build the clone of a very popular E-Commerce Website which deals in home appliances in the India <br> This Project is our construct week project in Unit-2 .
 <br> I hope you will enjoy the reading….
 
 # <span style="color:red"> About Website: </span>
