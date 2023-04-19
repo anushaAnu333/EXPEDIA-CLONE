@@ -74,7 +74,7 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 
 ## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
-- ## Anusha 
+- ## Anusha Surendran
 [GitHub](https://github.com/anushaAnu333)
 
 - ## Shubham
